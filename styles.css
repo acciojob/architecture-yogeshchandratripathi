@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+.main{
+	width:auto;
+	height:auto;
+	background-color:#CBD6CB;
+}
+table{
+	border:1px solid black;
+	border-style:double;
+}
+table td {
+	border: 1px solid black;
+}
+#center-text{
+	text-align:center;
+	justify-content:center;
+	align-items:center;
+}
+.first-col{
+  padding: 10px 0 10px 10px;
+  width: 200px;
+}
+
+.sec-col{
+    font-weight: 800;
+    width: 600px;
+}
+
+.third-col{
+    padding: 0 0 0 10px;
+   width: 200px;
+
+}
